@@ -1,0 +1,576 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Potato Salad",
+        "image": "https://assets.marthastewart.com/styles/wmax-570/d30/classic-potato-salad-103332815/classic-potato-salad-103332815_sq.jpg?itok=1ZmCkGj_",
+        "ingredients": [
+          "Russet potatoes",
+          "Distilled white vinegar",
+          "Mayonnaise",
+          "Whole-grain mustard",
+          "Celery",
+          "Cornichons",
+          "Scallions"
+        ],
+        "directions": [
+          "PREP POTATOES - Peel 3 pounds russet potatoes (about 6 medium). Slice lengthwise into 1-inch-thick planks. Lay flat and slice again into 1-inch-thick strips. Stack strips together and cut crosswise into even cubes.",
+          "COOK & SEASON - In a large pot, cover potatoes with at least 2 inches of water and season generously with kosher salt. Bring to a boil, then reduce heat to medium-high and continue boiling until potatoes are tender and easily pierced with the tip of a knife, 8 to 9 minutes. Drain and transfer to a bowl. Toss with 2 tablespoons vinegar; season with salt and freshly ground pepper. Let cool completely, about 30 minutes.",
+          "DRESS TO IMPRESS - Meanwhile, whisk together 3/4 cup mayonnaise, 2 tablespoons mustard, and 1 tablespoon vinegar. Stir in 1 cup finely chopped celery (from 3 stalks); 1/2 cup sliced cornichons (from about 20); and 1/3 cup finely chopped scallions (from 3). Gently fold mayonnaise mixture into cooked potatoes; season with salt and pepper. Serve, or refrigerate in an airtight container up to 1 day (bring to room temperature before serving, about 30 minutes)."
+        ],
+        "labels": [
+          "vegeterian",
+          "gluten free"
+        ],
+        "copyright": "© COPYRIGHT 2018, MARTHA STEWART LIVING OMNIMEDIA, INC. ALL RIGHTS RESERVED."
+      },
+      {
+        "id": "2",
+        "title": "Gingery Beet Soup",
+        "image": "https://assets.marthastewart.com/styles/wmax-750/d27/gingery-beet-soup-103215783/gingery-beet-soup-103215783_horiz.jpg?itok=FsTNOW2B",
+        "ingredients": [
+          "2 tablespoons extra-virgin olive oil, plus more for serving",
+          "1/2 yellow onion, chopped",
+          "2 tablespoons chopped peeled ginger, plus 1/4 teaspoon grated ginger",
+          "3 garlic cloves, peeled and smashed ",
+          "Kosher salt and freshly ground pepper",
+          "3 cups chopped peeled beets (from 2 medium)",
+          "1 cup chopped Yukon Gold potato (from 1 large)",
+          "1/2 cup plain yogurt",
+          "Fresh thyme leaves, for serving (optional)"
+        ],
+        "directions": [
+          "In a medium saucepan, heat oil over medium-high. Add onion, chopped ginger, garlic, and a pinch of salt; cook until softened, 4 to 5 minutes. Add beets, potato, and 4 cups water. Season with salt and pepper. Bring to a simmer, cover, and cook until vegetables are tender, 25 to 30 minutes. Let cool slightly; transfer to a blender. Blend until smooth, adding 1/4 to 1/2 cup water for desired consistency.",
+          "Stir together yogurt and grated ginger. Ladle soup into bowls; swirl in yogurt. Top with thyme (if desired), a drizzle of olive oil, and more pepper."
+        ],
+        "labels": [
+          "vegeterian",
+          "gluten free"
+        ],
+        "copyright": "© COPYRIGHT 2018, MARTHA STEWART LIVING OMNIMEDIA, INC. ALL RIGHTS RESERVED."
+      },
+      {
+        "id": "3",
+        "title": "Garlicky Cauliflower 'Rice'",
+        "image": "http://s3.r29static.com//bin/entry/4d9/545x818,80/2028019/image.jpg",
+        "ingredients": [
+          "1 medium head cauliflower (1½ to 2 pounds)",
+          "¼ cup olive oil",
+          "5 cloves garlic, minced 1 teaspoon kosher salt",
+          "¼ teaspoon freshly ground black pepper",
+          "Pinch of cayenne pepper",
+          "¼ cup chopped fresh basil, cilantro, scallions, parsley—whatever green stuff you want"
+        ],
+        "directions": [
+          "Remove the leaves from the bottom of the cauliflower head. Cut the cauliflower in half and grate the cauliflower head on the large holes of a box grater until you reach the stem. You should have about 6 cups grated cauliflower. (Or you can cut the florets off and pulse them in two batches in a food processer until it’s ricey, about 30 seconds per batch.)",
+          "In a large skillet, heat the oil over medium heat. Add the garlic and cook, stirring, until fragrant and light golden, 1 to 2 minutes. Add the cauliflower, salt, black pepper, and cayenne and cook, stirring, until the “rice” is tender, 6 to 7 minutes (a minute less for more al dente, a minute or two more for softer). Stir in the herbs and serve warm."
+        ],
+        "labels": [
+          "vegan",
+          "vegeterian",
+          "gluten free",
+          "dairy free",
+          "cauliflower"
+        ],
+        "copyright": "Recipes and photographs reprinted from Cravings: Hungry for More. Copyright © 2018 by Chrissy Teigen. Photographs copyright © 2018 by Aubrie Pick. Published by Clarkson Potter/Publishers, an imprint of Penguin Random House LLC."
+      },
+      {
+        "id": "4",
+        "title": "Teriyaki salmon with sesame pak choi",
+        "image": "http://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/11/teriyaki-salmon.jpg?itok=QUgpSYUv",
+        "ingredients": [
+          "2 skinless salmon fillets",
+          "1 tbsp sweet chilli sauce",
+          "1 tbsp honey",
+          "1 tsp sesame oil",
+          "1 tbsp mirin or dry sherry",
+          "2 tbsp soy sauce",
+          "2 tsp finely grated ginger",
+          "brown rice or noodles, to serve (optional)",
+          "2 large pak choi (about 250g)",
+          "2 tsp vegetable oil",
+          "2 tsp sesame oil",
+          "3 garlic cloves, grated",
+          "75ml fish or vegetable stock",
+          "2 tsp toasted sesame seeds, for sprinkling"
+        ],
+        "directions": [
+          "Heat oven to 200C/180C fan/gas 6 and put 2 skinless salmon fillets in a shallow baking dish.",
+          "Mix 1 tbsp sweet chilli sauce, 1 tbsp honey, 1 tsp sesame oil, 1 tbsp mirin or dry sherry, 2 tbsp soy sauce and 2 tsp finely grated ginger in a small bowl and pour over the salmon so the fillets are completely covered. Bake for 10 mins.",
+          "Meanwhile, cook the pack choi. Cut a slice across the base of 2 large pak choi so the leaves separate.",
+          "Heat 2 tsp vegetable oil and 2 tsp sesame oil in a wok, add 3 grated garlic cloves and stir-fry briefly to soften.",
+          "Add the pak choi and fry until the leaves start to wilt. Pour over 75ml fish or vegetable stock, tightly cover the pan and allow to cook for 5 mins – you're aiming for the stems to be tender but still have a bit of bite.",
+          "Serve the pak choi in shallow bowls, top with the salmon and spoon over the juices. Scatter with 2 tsp toasted sesame seeds and serve with brown rice or noodles, if you like."
+        ],
+        "labels": [
+          "fish"
+        ],
+        "copyright": "This website is published by Immediate Media Company Limited under licence from BBC Studios. © Immediate Media Company Limited, 2018"
+      },
+      {
+        "id": "5",
+        "title": "Moroccan Chicken Tagine with Caramelized Pears",
+        "image": "https://images.media-allrecipes.com/userphotos/560x315/4731893.jpg",
+        "ingredients": [
+          "7 tablespoons olive oil, divided",
+          "2 onions, peeled and sliced",
+          "1 whole chicken, cut into pieces",
+          "1 teaspoon ground turmeric",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon salt",
+          "3 cinnamon sticks",
+          "2 bay leaves, crushed",
+          "1 bunch fresh cilantro, chopped",
+          "2 tablespoons fresh ginger root, peeled and minced",
+          "1/2 cup water",
+          "2 tablespoons butter",
+          "2 pears, cored and sliced",
+          "2 tablespoons honey"
+        ],
+        "directions": [
+          "Preheat oven to 350 degrees F (175 degrees C).",
+          "Heat 2 tablespoon olive oil in a skillet over medium heat and cook onions until softened and browned, 8 to 10 minutes. Transfer onions into a tagine. Layer chicken pieces on top of onions.",
+          "Combine turmeric, cumin, ground coriander, and salt in a small bowl; mix well with remaining 5 tablespoons olive oil. Spread spice mixture onto the chicken pieces. Add cinnamon pieces, bay leaves, ginger, and cilantro. Pour in 1/2 cup of water and cover tagine with a lid.",
+          "Bake in the preheated oven until chicken is no longer pink at the bone and the juices run clear, about 50 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+          "Melt butter in a skillet over low heat while chicken is cooking. Add sliced pears and honey and cook, while stirring, until honey has caramelized.",
+          "Remove tagine from the oven and stir in caramelized pears. Return to the oven and cook for an additional 10 minutes."
+        ],
+        "labels": [
+          "chicken",
+          "gluten free",
+          "dairy free"
+        ],
+        "copyright": "© 2018 Allrecipes.com All Rights Reserved"
+      },
+      {
+        "id": "6",
+        "title": "Peanut Butter Cup Cookies",
+        "image": "https://images.media-allrecipes.com/userphotos/720x405/271187.jpg",
+        "ingredients": [
+          "1 3/4 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1 teaspoon baking soda",
+          "1/2 cup butter, softened",
+          "1/2 cup white sugar",
+          "1/2 cup peanut butter",
+          "Skippy Natural Creamy Peanut Butter 15 Oz",
+          "1/2 cup packed brown sugar",
+          "1 egg, beaten",
+          "1 teaspoon vanilla extract2 tablespoons milk",
+          "40 miniature chocolate covered peanut butter cups, unwrapped"
+        ],
+        "directions": [
+          "Preheat oven to 375 degrees F (190 degrees C). Sift together the flour, salt and baking soda; set aside.",
+          "Cream together the butter, sugar, peanut butter and brown sugar until fluffy. Beat in the egg, vanilla and milk. Add the flour mixture; mix well. Shape into 40 balls and place each into an ungreased mini muffin pan.",
+          "Bake at 375 degrees for about 8 minutes. Remove from oven and immediately press a mini peanut butter cup into each ball. Cool and carefully remove from pan."
+        ],
+        "labels": [
+          "cookies",
+          "vegeterian"
+        ],
+        "copyright": "© 2018 Allrecipes.com"
+      },
+      {
+        "id": "7",
+        "title": "The Best Rolled Sugar Cookies",
+        "image": "https://images.media-allrecipes.com/userphotos/720x405/4518835.jpg",
+        "ingredients": [
+          "1 1/2 cups butter, softened",
+          "2 cups white sugar",
+          "4 eggs",
+          "1 teaspoon vanilla extract",
+          "5 cups all-purpose flour",
+          "2 teaspoons baking powder",
+          "1 teaspoon salt"
+        ],
+        "directions": [
+          "In a large bowl, cream together butter and sugar until smooth. Beat in eggs and vanilla. Stir in the flour, baking powder, and salt. Cover, and chill dough for at least one hour (or overnight).",
+          "Preheat oven to 400 degrees F (200 degrees C). Roll out dough on floured surface 1/4 to 1/2 inch thick. Cut into shapes with any cookie cutter. Place cookies 1 inch apart on ungreased cookie sheets.",
+          "Bake 6 to 8 minutes in preheated oven. Cool completely."
+        ],
+        "labels": [
+          "cookies",
+          "vegeterian"
+        ],
+        "copyright": "© 2018 Allrecipes.com"
+      },
+      {
+        "id": "8",
+        "title": "Stuffed Peppers",
+        "image": "https://images.media-allrecipes.com/userphotos/720x405/1415039.jpg",
+        "ingredients": [
+          "1 cup uncooked long grain white rice",
+          "2 cups water",
+          "1 onion, diced",
+          "1 tablespoon olive oil",
+          "2 cups marinara sauce",
+          "1 cup beef broth",
+          "1 tablespoon balsamic vinegar",
+          "1/4 teaspoon crushed red pepper flakes",
+          "1 pound lean ground beef",
+          "1/4 pound hot Italian pork sausage, casing removed",
+          "1 (10 ounce) can diced tomatoes",
+          "1/4 cup chopped fresh Italian parsley",
+          "4 cloves garlic, minced",
+          "2 teaspoons salt",
+          "1 teaspoon freshly ground black pepper",
+          "1 pinch ground cayenne pepper",
+          "4 large green bell peppers, halved lengthwise and seeded",
+          "1 cup finely grated Parmigiano-Reggiano cheese, plus more for topping"
+        ],
+        "directions": [
+          "Preheat the oven to 375 degrees F (190 degrees C).",
+          "Bring rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Set the cooked rice aside.",
+          "Cook onion and olive oil over medium heat until onion begins to soften, about 5 minutes. Transfer half of cooked onion to a large bowl and set aside.",
+          "Stir marinara sauce, beef broth, balsamic vinegar, and red pepper flakes into the skillet; cook and stir for 1 minute.",
+          "Pour sauce mixture into a 9x13-inch baking dish and set aside.",
+          "Combine ground beef, Italian sausage, diced tomatoes, Italian parsley, garlic, salt, black pepper, and cayenne pepper into bowl with reserved onions; mix well. Stir in cooked rice and Parmigiano Reggiano. Stuff green bell peppers with beef and sausage mixture.",
+          "Place stuffed green bell pepper halves in the baking dish over tomato sauce; sprinkle with remaining Parmigiano-Reggiano, cover baking dish with aluminum foil, and bake in the preheated oven for 45 minutes.",
+          "Remove aluminum foil and bake until the meat is no longer pink, the green peppers are tender and the cheese is browned on top, an addition 20 to 25 minutes."
+        ],
+        "labels": [
+          
+        ],
+        "copyright": "© 2018 Allrecipes.com"
+      },
+      {
+        "id": "9",
+        "title": "Spaghetti Cacio e Pepe",
+        "image": "https://images.media-allrecipes.com/userphotos/720x405/3478412.jpg",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 tablespoons olive oil",
+          "2 cloves garlic, minced2 teaspoons ground black pepper",
+          "1 3/4 cups grated Pecorino Romano cheese"
+        ],
+        "directions": [
+          "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until tender yet firm to the bite, about 10 minutes. Scoop out some of the cooking water and reserve. Drain spaghetti.",
+          "Heat oil in a large skillet over medium heat. Add garlic and pepper; cook and stir until fragrant, 1 to 2 minutes. Add spaghetti and Pecorino Romano cheese. Ladle in 1/2 cup of reserved cooking water; stir until cheese is melted, about 1 minute. Add more cooking water until sauce coats spaghetti, about 1 minute more."
+        ],
+        "labels": [
+          "vegeterian"
+        ],
+        "copyright": "© 2018 Allrecipes.com"
+      },
+      {
+        "id": "10",
+        "title": "Labneh (Lebanese Yogurt)",
+        "image": "https://images.media-allrecipes.com/userphotos/720x405/3707126.jpg",
+        "ingredients": [
+          "1 1/2 cups Greek yogurt",
+          "1/4 cup extra-virgin olive oil",
+          "1 tablespoon chopped fresh mint1 tablespoon chopped fresh dill",
+          "1/2 teaspoon kosher salt, or to taste"
+        ],
+        "directions": [
+          "Mix Greek yogurt, olive oil, mint, dill, and kosher salt together in a bowl. Cover and refrigerate up to 12 hours.",
+          "Cook's Notes: Using a very good olive oil is crucial to the flavor. Herbs can be any that you prefer. I like to use dill and mint."
+        ],
+        "labels": [
+          "vegeterian"
+        ],
+        "copyright": "© 2018 Allrecipes.com"
+      },
+      {
+        "id": "11",
+        "title": "Pho",
+        "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/pho-recipe-5.jpg",
+        "ingredients": [
+          "4 pounds beef soup bones",
+          "1 onion",
+          "5 slices ginger",
+          "1 tablespoon salt",
+          "2 pods star anise",
+          "2 1/2 tablespoons fish sauce",
+          "4 quarts water",
+          "1 (8 ounce) package dried rice noodles",
+          "1 1/2 pounds beef top sirloin, thinly sliced",
+          "1/2 cup chopped cilantro",
+          "1 tablespoon chopped green onion",
+          "1 1/2 cups bean sprouts",
+          "1 bunch Thai basil",
+          "1 lime, cut into 4 wedges"
+        ],
+        "directions": [
+          "Preheat oven to 425 degrees F (220 degrees C).",
+          "Place beef bones on a baking sheet and roast in the preheated oven until browned, about 1 hour.",
+          "Place onion on a baking sheet and roast in the preheated oven until blackened and soft, about 45 minutes.",
+          "Place bones, onion, ginger, salt, star anise, and fish sauce in a large stockpot and cover with 4 quarts of water. Bring to a boil and reduce heat to low. Simmer on low for 6 to 10 hours. Strain the broth into a saucepan and set aside.",
+          "Place rice noodles in large bowl filled with room temperature water and allow to soak for 1 hour. Bring a large pot of water to a boil and after the noodles have soaked, place them in the boiling water for 1 minute. Bring stock to a simmer.",
+          "Divide noodles among 4 serving bowls; top with sirloin, cilantro, and green onion. Pour hot broth over the top. Stir and let sit until the beef is partially cooked and no longer pink, 1 to 2 minutes. Serve with bean sprouts, Thai basil, lime wedges, hoisin sauce, and chile-garlic sauce on the side."
+        ],
+        "labels": [
+          "asian",
+          "dairy free"
+        ]
+      },
+      {
+        "id": "12",
+        "title": "Twisted Marshmallow",
+        "image": "https://i.pinimg.com/originals/86/37/3e/86373eb906383224a3bb95c5f78059a8.jpg",
+        "ingredients": [
+          "4 1/2 teaspoons unflavored gelatin",
+          "1/2 cup cold water",
+          "3/4 cup sugar",
+          "1/2 cup light corn syrup, divided",
+          "1/4 cup water",
+          "Pinch of salt",
+          "1/2 tsp. clear vanilla extract",
+          "Your choice of gel food coloring",
+          "Toothpicks"
+        ],
+        "directions": [
+          "Whisk together the gelatin and cold water in a small bowl.  Let set for 5 minutes until gelatin absorbs liquid.",
+          "In a saucepan with a candy thermometer inserted, combine sugar, 1/4 cup corn syrup, 1/4 cup water and salt. Place over high heat and bring to a boil. Meanwhile, pour the remaining 1/4 cup corn syrup in the bowl of a standing mixer fitted with the whisk attachment. Heat the gelatin in the microwave or on the stove-top until melted completely and pour into the mixing bowl with the corn syrup.  Turn mixer on low and keep it stirring until the sugar syrup is ready.",
+          "When the syrup reaches 240°F, slowly pour it into the mixer bowl. Increase the speed to medium and beat for 5 minutes, then increase to medium-high and beat 5 more minutes. Finally, increase to highest speed and beat 1-2 more minutes, add vanilla then beat again for 1-2 minutes.  Mixture should be opaque and tripled in volume. Add food coloring and beat until incorporated. Immediately scoop marshmallow into the large piping bag fitted with a plain 1/2-inch tip. You can also use a disposable piping bag with the end snipped to size.",
+          "Pipe long lengths of marshmallow batter onto the prepared sheets until all the batter is used.  The marshmallow will set quickly, so be sure to pipe as quickly as possible.  Repeat recipe twice more with different colors of gel food coloring.  Dust all of the piped marshmallows with some of the remaining marshmallow coating. Allow to dry about 1 hour or until marshmallow is set.",
+          "When the marshmallows are set, dust your hands with the remaining marshmallow coating and roll one of each color of rope back and forth in the mixture so they are completely coated.  Lay the three colors of ropes side by side and skewer all three with a toothpick.  Twist the ropes together and skewer the other end with another toothpick.  Repeat process with remaining ropes.  The ropes can be enjoyed immediately, but they will be soft and won’t hold their shape.  Leave ropes uncovered at room temperature for 24 hours to dry.  The next day, remove toothpicks and cut into pieces, tie into ropes or coil them up and skewer them through the center to make a marshmallow lollipop."
+        ],
+        "labels": [
+          "dessert"
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Blueberry Cheesecake",
+        "image": "https://assets.epicurious.com/photos/579f8ec93a12dd9d56024065/6:4/w_620%2Ch_413/blueberry-cheesecake.jpg",
+        "ingredients": [
+          "2 1/3 cups graham cracker crumbs",
+          "1/2 cup (1 stick) unsalted butter, melted",
+          "1/4 cup sugar",
+          "4 8-ounce packages cream cheese, room temperature",
+          "1 1/2 cups sugar",
+          "1/4 cup all purpose flour",
+          "5 large eggs",
+          "1 16-ounce container sour cream",
+          "1/4 cup milk",
+          "1 tablespoon vanilla extract",
+          "1/3 cup all-fruit blueberry spread",
+          "2 6-ounce baskets fresh blueberries or 12-ounce package frozen blueberries, thawed, drained"
+        ],
+        "directions": [
+          "Position rack in center of oven and preheat to 375°F. Wrap outside of 10-inch-diameter springform pan with heavy-duty foil. Combine all ingredients in processor. Blend using on/off turns just until crumbs are moist. Press crumb mixture firmly onto bottom and 2 inches up sides of prepared pan. Bake until crust begins to brown, about 8 minutes. Transfer crust to rack and cool. Maintain oven temperature.",
+          "Using electric mixer, beat cream cheese and sugar in large bowl until will blended. Beat in flour. Add eggs 1 at a time, beating just until combined. Beat in sour cream, milk and vanilla. Pour filling into crust.",
+          "Place springform pan in large roasting pan. Pour enough hot water into roasting pan to come 1 inch up sides of pan. Bake cheesecake until just set in center and top is slightly puffed and golden brown, about 1 hour. Turn off oven; keep door closed. Let cheesecake stand in oven 1 hour. Remove cheesecake from roasting pan. Refrigerate until cold, at least 6 hours. Cover; refrigerate overnight.",
+          "Stir blueberry spread in large skillet over low heat until melted. Remove from heat. Add blueberries; toss to coat. Spoon blueberry mixture over top of cake, spreading evenly. Chill until cold, at least 1 hour and up to 4 hours."
+        ],
+        "labels": [
+          "dessert"
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Swedish Meatballs",
+        "image": "https://www.196flavors.com/wp-content/uploads/2015/06/Kottbullar-1.jpg",
+        "ingredients": [
+          "4 tablespoons breadcrumbs",
+          "4 tablespoons milk",
+          "1/2 lb ground pork",
+          "1/2 lb ground beef (or ground veal, or both)",
+          "3 tablespoons grated onion",
+          "1 egg , lightly beaten",
+          "4 whole allspice , crushed",
+          "Salt",
+          "White pepper",
+          "2 tablespoons unsalted butter (for frying)",
+          "1 1/4 cup beef stock",
+          "3 tablespoons cornstarch , dissolved in 2 tablespoons water",
+          "1 tablespoon soy sauce",
+          "½ cup heavy whipping cream"
+        ],
+        "directions": [
+          "Put the breadcrumbs in a large bowl and add 4 tablespoons of milk. Leave the breadcrumbs to absorb the milk for about 5 minutes.",
+          "Add the ground meat, grated onion, egg, allspice salt and white pepper to the bowl. Mix until everything is combined.",
+          "Take a tablespoon of the mixture and roll it until it is round. Rinse your hands in cold water if the mixture is too sticky. Repeat until you have used up all the mixture, by which time you should have between 25 and 30 meatballs.",
+          "Heat a tablespoon of butter in a frying pan over a medium high heat.",
+          "Fry half the meatballs, shaking the pan frequently as you add them.",
+          "When they are browned, turn down the heat and cook for 10 more minutes.",
+          "Remove the meatballs from the pan and keep warm.",
+          "Add another tablespoon of butter and fry the remaining meatballs in the same way.",
+          "When the meatballs are cooked, remove them from the pan.",
+          "Add the stock and cornstarch mixture to the pan.",
+          "Stir thoroughly and then simmer for 5 minutes.",
+          "Add the soy sauce, salt, black pepper and cream. Heat for a couple more minutes, stirring continuously.",
+          "Serve the meatballs with lingonberries or lingonberry jam, mashed potatoes, pressed cucumber and a light coating of the creamy gravy sauce."
+        ],
+        "labels": [
+          "swedish"
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Panna Cotta",
+        "image": "https://www.seriouseats.com/recipes/images/2017/07/20170523-panna-cotta-vicky-wasik-17-1500x1125.jpg",
+        "ingredients": [
+          "3 gelatine leaves",
+          "250ml/9fl oz milk",
+          "250ml/9fl oz double cream",
+          "1 vanilla pod, split lengthways, seeds scraped out",
+          "25g/1oz sugar",
+          "175g/6oz sugar",
+          "175ml/6fl oz water",
+          "splash cherry liqueur",
+          "350g/12oz raspberries"
+        ],
+        "directions": [
+          "For the panna cotta, soak the gelatine leaves in a little cold water until soft.",
+          "Place the milk, cream, vanilla pod and seeds and sugar into a pan and bring to a simmer. Remove the vanilla pod and discard.",
+          "Squeeze the water out of the gelatine leaves, then add to the pan and take off the heat. Stir until the gelatine has dissolved.",
+          "Divide the mixture among four ramekins and leave to cool. Place into the fridge for at least an hour, until set.",
+          "For the sauce, place the sugar, water and cherry liqueur into a pan and bring to the boil. Reduce the heat and simmer until the sugar has dissolved.",
+          "Take the pan off the heat and add half the raspberries. Using a hand blender, blend the sauce until smooth.",
+          "Pass the sauce through a sieve into a bowl and stir in the remaining fruit.",
+          "To serve, turn each panna cotta out onto a serving plate. Spoon over the sauce and garnish with a sprig of mint. Dust with icing sugar."
+        ],
+        "labels": [
+          "dessert"
+        ]
+      },
+      {
+        "id": "16",
+        "title": "Spicy Thai Peanut Sauce over Roasted Sweet Potatoes and Rice",
+        "image": "https://cookieandkate.com/images/2013/10/spicy-thai-peanut-sauce-over-roasted-sweet-potatoes-and-rice1.jpg",
+        "ingredients": [
+          "1/2 cup creamy peanut butter",
+          "1/4 cup reduced-sodium tamari or soy sauce",
+          "3 tablespoons apple cider vinegar",
+          "2 tablespoons honey or maple syrup",
+          "1 teaspoon grated fresh ginger",
+          "2 cloves garlic, pressed",
+          "1/4 teaspoon red pepper flakes",
+          "2 tablespoons water",
+          "2 sweet potatoes, peeled and sliced into 1 inch long, 1/2 inch wide chunks",
+          "1 red bell pepper, cored, deseeded, and sliced into bite-sized strips",
+          "about 2 tablespoons coconut oil (or olive oil)",
+          "1/4 teaspoon cumin powder",
+          "Salt",
+          "1 1/4 cup jasmine brown rice (or any variety of long-grain brown rice)"
+        ],
+        "directions": [
+          "Prep: Bring a large pot of water to boil. Preheat the oven to 425 degrees Fahrenheit with a rack in the middle and another rack near the top.",
+          "Roast the vegetables: On a large, rimmed baking sheet, toss the sweet potato with a generous tablespoon of coconut oil, the cumin and a sprinkle of salt. Arrange them in a single layer, and set aside.",
+          "On a separate, smaller baking sheet, toss the bell pepper with about 1 teaspoon of coconut oil and a sprinkle of salt. Toss until lightly coated, and arrange them in a single layer.",
+          "Roast the sweet potatoes on the middle rack for about 35 minutes, tossing halfway, and roast the peppers on the top rack for about 20 minutes, tossing halfway. The vegetables will be tender and caramelized on the edges when they are ready.",
+          "In the meantime, cook the rice: Once the water is boiling, pour in the rice and give it a stir. Boil the rice for 30 minutes, then turn off the heat and drain the rice. Return the rice to the pot and cover the pot. Let the rice steam that way for 10 minutes. Remove the lid, fluff the rice with a fork and season with salt to taste.",
+          "Make the sauce: In a bowl, whisk together the sauce ingredients. If the sauce is too thick or too spicy, whisk in a little more water.",
+          "Serve: In bowls, divide the rice and roasted vegetables. Drizzle each bowl generously with sauce, and top with a sprinkle of green onions, cilantro and peanuts."
+        ],
+        "labels": [
+          "gluten free",
+          "asian",
+          "vegan"
+        ]
+      },
+      {
+        "id": "17",
+        "title": "Sugar Snap Pea and Carrot Soba Noodles",
+        "image": "https://cookieandkate.com/images/2014/04/sugar-snap-pea-and-carrot-soba-noodles-1-2.jpg",
+        "ingredients": [
+          "6 ounces soba noodles or spaghetti noodles of choice",
+          "2 cups frozen organic edamame",
+          "10 ounces (about 3 cups) sugar snap peas or snow peas",
+          "6 medium-sized carrots, peeled",
+          "1/2 cup chopped fresh cilantro (about 2 handfuls)",
+          "1/4 cup sesame seeds",
+          "1/4 cup reduced-sodium tamari or soy sauce",
+          "2 tablespoons quality peanut oil or extra-virgin olive oil",
+          "1 small lime, juiced",
+          "1 tablespoon toasted sesame oil",
+          "1 tablespoon honey or agave nectar",
+          "1 tablespoon white miso",
+          "2 teaspoons freshly grated ginger",
+          "1 teaspoon chili garlic sauce or sriracha"
+        ],
+        "directions": [
+          "To prepare the vegetables: Use a chef’s knife to slice the peas in half lengthwise (or just roughly chop them). Slice the carrots into long, thin strips with a julienne peeler, or slice them into ribbons with a vegetable peeler.",
+          "To make the sauce: whisk together the ingredients in a small bowl until emulsified. Set aside.",
+          "Bring two big pots of water to a boil. In the meantime, toast the sesame seeds: Pour the sesame seeds into a small pan. Toast for about 4 to 5 minutes over medium-low heat, shaking the pan frequently to prevent burning, until the seeds are turning golden and starting to make popping noises.",
+          "Once the pots of water are boiling: In one pot, cook the soba noodles just until al dente, according to package directions (probably about 5 minutes), then drain and briefly rinse under cool water. Cook the frozen edamame in the other pot until warmed through (about 4 to 6 minutes) but before draining, toss the halved peas into the boiling edamame water and cook for an additional 20 seconds. Drain.",
+          "Combine the soba noodles, edamame, snap peas and carrots in a large serving bowl. Pour in the dressing and toss with salad servers. Toss in the chopped cilantro and toasted sesame seeds. Serve."
+        ],
+        "labels": [
+          "asian",
+          "vegan"
+        ]
+      },
+      {
+        "id": "18",
+        "title": "Pumpkin Soup",
+        "image": "https://www.simplyrecipes.com/wp-content/uploads/2010/11/chipotle-pumpkin-soup-vertical-a-1800.jpg",
+        "ingredients": [
+          "6 cups chicken stock",
+          "1 1/2 teaspoons salt",
+          "4 cups pumpkin puree",
+          "1 teaspoon chopped fresh parsley",
+          "1 cup chopped onion",
+          "1/2 teaspoon chopped fresh thyme",
+          "1 clove garlic",
+          "1/2 cup heavy whipping cream",
+          "5 whole black peppercorns"
+        ],
+        "directions": [
+          "Heat stock, salt, pumpkin, onion, thyme, garlic, and peppercorns. Bring to a boil, reduce heat to low, and simmer for 30 minutes uncovered.",
+          "Puree the soup in small batches (1 cup at a time) using a food processor or blender.",
+          "Return to pan, and bring to a boil again. Reduce heat to low, and simmer for another 30 minutes, uncovered. Stir in heavy cream. Pour into soup bowls and garnish with fresh parsley."
+        ],
+        "labels": [
+          "soup"
+        ]
+      },
+      {
+        "id": "19",
+        "title": "Mapo Tofu",
+        "image": "https://www.chinasichuanfood.com/wp-content/uploads/2014/09/mapo-tofu-steps-10.jpg",
+        "ingredients": [
+          "1/2 cup low sodium chicken broth",
+          "2 teaspoons potato starch (halve if using cornstarch)",
+          "2 teaspoons soy sauce",
+          "1 teaspoon sugar",
+          "1 tablespoon sesame oil",
+          "2 medium cloves of garlic, minced",
+          "2 teaspoons minced ginger",
+          "4 green onions white part only, minced",
+          "1 tablespoon fermented black beans, roughly chopped (black bean paste will also work)",
+          "1/2 teaspoon Sichuan peppercorns, black seeds removed then ground (optional)",
+          "6 ounces ground pork",
+          "2 teaspoons doubanjiang (chili bean paste)",
+          "14 ounce block of silken tofu, drained and cut into 3/4” cubes",
+          "green part of green onions minced for garnish"
+        ],
+        "directions": [
+          "Add the chicken stock, cornstarch, soy sauce and sugar to a small bowl and stir to combine.",
+          "Heat a wok or large frying pan until hot. Add the sesame oil, garlic, ginger and green onions and stir-fry with a spatula until fragrant. Add the black beans and Sichuan pepper and continue stir-frying.",
+          "Add the ground pork and use the spatula to break it up into small grains (you don’t want clumps of meat). When the pork is cooked, add the doubanjiang and stir to distribute. Add the tofu, and toss to mix (if you stir it, the tofu will lose its shape).",
+          "Give the stock mixture a good stir to incorporate anything that may have settled, and then pour it over the pork and tofu. Toss to coat, then boil until the sauce thickens.",
+          "Garnished with the green parts of the green onions, then serve with hot rice."
+        ],
+        "labels": [
+          "asian"
+        ]
+      },
+      {
+        "id": "20",
+        "title": "Chocolate cake",
+        "image": "https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/201009-xl-molten-chocolate-cakes-vongerichten.jpg?itok=zAfgCHf-",
+        "ingredients": [
+          "1 stick (4 ounces) unsalted butter",
+          "6 ounces bittersweet chocolate, preferably Valrhona",
+          "2 eggs",
+          "2 egg yolks",
+          "1/4 cup sugar",
+          "Pinch of salt",
+          "2 tablespoons all-purpose flour"
+        ],
+        "directions": [
+          "Preheat the oven to 450°. Butter and lightly flour four 6-ounce ramekins. Tap out the excess flour. Set the ramekins on a baking sheet.",
+          "In a double boiler, over simmering water, melt the butter with the chocolate. In a medium bowl, beat the eggs with the egg yolks, sugar and salt at high speed until thickened and pale.",
+          "Whisk the chocolate until smooth. Quickly fold it into the egg mixture along with the flour. Spoon the batter into the prepared ramekins and bake for 12 minutes, or until the sides of the cakes are firm but the centers are soft. Let the cakes cool in the ramekins for 1 minute, then cover each with an inverted dessert plate. Carefully turn each one over, let stand for 10 seconds and then unmold. Serve immediately.",
+          ""
+        ],
+        "labels": [
+          "dessert"
+        ]
+      }
+    ]
+  }
